@@ -4,3 +4,6 @@
 npm install 
 2/démarrer le serveur avec:
 npm start
+
+
+projet développé par Mrabent ilyes et Migdal Téo
